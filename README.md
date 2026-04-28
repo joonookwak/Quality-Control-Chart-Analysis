@@ -17,5 +17,5 @@
 * **결과 해석:** 분석 결과를 바탕으로 한 공정 개선 제언
 
 ## 📝 관련 문서
-* [분석 코드 보러가기](./Anomaly_Detection_LOF_IsolationForest.ipynb)
+* [분석 코드 보러가기](./T2_F_Bootstrap.ipynb)
 * [상세 분석 보고서(PDF)](./control_chart_example.pdf)
